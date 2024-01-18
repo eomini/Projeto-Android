@@ -29,6 +29,7 @@ header{
     background-image:linear-gradient(3deg, rgba(7, 56, 7, 0.808), #3bb41f9d);
     text-align: center;
     padding: 30px;
+    padding-bottom: 50px;
     color: white;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.493);
     line-height: 2.6em;   
